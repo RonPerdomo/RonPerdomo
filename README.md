@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ron, an <a href="https://linkedin.com/in/ronald-perdomo-66256b88">IT Professional</a></h1>
+<h1>Welcome to my page. My name is Ron, an <a href="https://linkedin.com/in/ronald-perdomo-66256b88">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
