@@ -1,4 +1,5 @@
-<h1>Hello there, my name is Ron, an <a href="https://linkedin.com/in/ronald-perdomo-66256b88">IT Professional.</a> Below is a showcase of some cool things I learned!</h1>
+<h1>Hello there, my name is Ron, an <a href="https://linkedin.com/in/ronald-perdomo-66256b88">IT Professional.</a></h1> 
+<h1>Below is a showcase of some cool things I learned!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
