@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/RonPerdomo/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RonPerdomo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/RonPerdomo/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/RonPerdomo/Configuring-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 
