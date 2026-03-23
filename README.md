@@ -1,6 +1,6 @@
 # Ronald Perdomo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/[ronald-perdomo-66256b88/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ronald-perdomo-66256b88/])
 [![Location](https://img.shields.io/badge/Tampa,_FL-Remote_Ready-6B7280?style=flat-square)](#)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B_Apr_2026-FF0000?style=flat-square&logo=comptia&logoColor=white)](#)
 [![Clearance](https://img.shields.io/badge/Public_Trust-Eligible-16A34A?style=flat-square)](#)
